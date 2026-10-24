@@ -72,6 +72,7 @@ files to `@EDGAR_STAGE/docs/`, and run `sql/02_load_and_query.sql`.
 - [x] v1 timeliness analysis in SQL
 - [ ] dbt models: clean HTML, extract Item 1.05 text, build incidents
 - [ ] Federal holiday calendar for business-day counts
-- [ ] Embeddings and LLM extraction of materiality dates
+- [x] Embeddings, LLM extraction of discovery and materiality dates, and RAG answers (Snowflake Cortex)
 - [ ] MCP server tools and AI assistant
 - [ ] Airflow orchestration
+- [x] Item 1.05 section extraction and chunking
